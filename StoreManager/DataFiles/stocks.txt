@@ -1,0 +1,2 @@
+﻿Product1, 1000
+Product2, 2
